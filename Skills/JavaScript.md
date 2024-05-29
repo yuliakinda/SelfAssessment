@@ -1,89 +1,121 @@
 ## JavaScript
 
 - Language
-  - Object: 🖐️ used
-  - this: 🖐️ used
-  - arrow function: 🖐️ used
-  - async function: 🎓 known
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof: 🎓 known
-  - destructuring: 🖐️ used
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining: 🖐️ used
-  - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters: 👂 heard
-  - __proto__: 👂 heard
-  - prototype: 👂 heard
-  - equality operators: 🖐️ used
-  - logical operators: 🖐️ used
-  - bitwise operators: 👂 heard
-  - ternary operator: 🖐️ used
-  - void
-  - yield
-  - await: 🎓 known
-  - template literal: 🖐️ used
-  - strict mode: 🖐️ used
-  - delete: 🎓 known
-  - in: 🎓 known
-  - super
-  - Symbol: 🎓 known
-  - Reflect
-- Statements
-  - if: 🖐️ used
-  - while: 🖐️ used
-  - do..while: 🖐️ used
-  - for: 🖐️ used
-  - for..in: 🖐️ used
-  - for..of: 🖐️ used
-  - for await
-  - throw: 🖐️ used
-  - break: 🖐️ used
-  - continue: 🖐️ used
-  - import: 🖐️ used
-  - export: 🖐️ used
-  - label: 🖐️ used
-  - try..catch: 🖐️ used
-  - switch: 🖐️ used
-  - class: 🖐️ used
-  - new Error: 🖐️ used
-  - with
-- Functions
-  - function declaration: 🖐️ used
-  - function expression: 🖐️ used
-  - return: 🖐️ used
-  - default parameters
-  - functional object
-- Data structures
-  - Array: 🖐️ used
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined: 🖐️ used
-  - null: 🖐️ used
-  - Proxy
-  - weak collections
-  - timers: 👂 heard
-  - EventEmitter: 👂 heard
-  - RegExp: 👂 heard
-  - Date: 🖐️ used
-  - BigInt: 🎓 known
-- Infrastructure
+  - `Object`: 🖐️ used
+  - `Function`:
+  - `Boolean`:
+  - `Number`:
+  - `BigInt`: 🎓 known
+  - `String`:
+  - `Symbol`: 🎓 known
+  - `Infinity`:
+  - `NaN`:
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
+  - `instanceof`:
+  - `...spread`:
+  - `...rest`:
+  - `typeof`: 🎓 known
+  - Destructuring: 🖐️ used
+  - Generators:
+  - Iterators:
+  - Async generator:
+  - Async iterator:
+  - Chaining:
+  - Optional chaining: 🖐️ used
+  - IIFE:
+  - Async IIFE:
+  - `global`:
+  - `globalThis`:
+  - `window`:
+  - Getters and setters: 👂 heard
+  - `__proto__`: 👂 heard
+  - `prototype`: 👂 heard
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment:
+  - Bitwise operators: 👂 heard
+  - Ternary operator: 🖐️ used
+  - `void`:
+  - `yield`:
+  - `await`: 🎓 known
+  - Template literal: 🖐️ used
+  - Strict mode: 🖐️ used
+  - Hoisting:
+  - `delete`: 🎓 known
+  - `in`: 🎓 known
+  - `super`:
+  - `eval`:
+  - `static`:
+  - `Number.parseInt`:
+  - `Number.parseFloat`:
+  - Property descriptors:
+  - Sealing properties:
+  - Freezing properties:
+  - Computed properties:
+  - Instance class fields:
+  - Static class fields:
+  - Private class fields:
+  - Private class methods:
+- Statements:
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
+  - `for await`:
+  - `throw`: 🖐️ used
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
+  - `label`: 🖐️ used
+  - `try..catch`: 🖐️ used
+  - `switch`: 🖐️ used
+  - `class`: 🖐️ used
+  - `extends`:
+  - `with`:
+  - `new`:
+- Functions:
+  - Arrow function: 🖐️ used
+  - Async function: 🎓 known
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters:
+  - Functional object:
+  - `Function.prototype.call`:
+  - `Function.prototype.bind`:
+  - `Function.prototype.apply`:
+  - `return`: 🖐️ used
+- Data structures:
+  - `Array`: 🖐️ used
+  - `Map`:
+  - `Set`:
+  - Weak collections:
+  - Typed arrays:
+  - Mixins:
+  - `Object.assign`:
+- Standard classes and namespaces:
+  - `Proxy`:
+  - `RegExp`: 👂 heard
+  - `Date`: 🖐️ used
+  - `Math`:
+  - `Reflect`:
+  - `Error`:
+  - `Atomics`:
+  - `JSON`:
+  - `WeakRef`:
+  - `FinalizationRegistry`:
+  - `Intl`:
+  - `Promise`:
+  - `console`:
+  - Timers: 👂 heard
+- Infrastructure:
   - V8: 🎓 known
   - Node.js: 👂 heard
   - npm: 👂 heard
   - prettier: 👂 heard
   - MDN: 🖐️ used
+  - TC39:
