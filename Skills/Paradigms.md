@@ -1,91 +1,91 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 👂 heard
-  - Imperative programming: 👂 heard
-  - Structured programming: 👂 heard
-  - Non-structured programming: 👂 heard
-  - Functional programming: 👂 heard
-  - Prototype-based programming
-  - Object-oriented programming: 👂 heard
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing: 👂 heard
-  - Asyncronous programming: 👂 heard
-  - Parallel programming: 👂 heard
-  - Reactive programming: 👂 heard
-  - Functional-reactive (FRP)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming: 👂 heard
-  - Metaprogramming
-  - Actor model
-  - Lambda calculus
-  - Black box
-  - Information hiding
-  - Aspect-oriented programming
-  - Anemic domain model
-  - Class composition
+  - Procedural programming: 🎓 known
+  - Imperative programming: 🎓 known
+  - Structured programming: 🎓 known
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🎓 known
+  - Prototype-based programming: 👂 heard
+  - Object-oriented programming: 🎓 known
+  - Object-based programming: 👂 heard
+  - Generic programming: 🎓 known
+  - Concurrent computing: 🎓 known
+  - Asynchronous programming: 🎓 known
+  - Parallel programming: 🎓 known
+  - Reactive programming: 🎓 known
+  - Functional-reactive (FRP): 👂 heard
+  - Automata-based programming: 👂 heard
+  - Domain-specific languages: 👂 heard
+  - Multi-paradigm programming: 🎓 known
+  - Metaprogramming: 👂 heard
+  - Actor model: 👂 heard
+  - Lambda calculus: 👂 heard
+  - Black box: 👂 heard
+  - Information hiding: 🎓 known
+  - Aspect-oriented programming: 👂 heard
+  - Anemic domain model: 👂 heard
+  - Class composition: 🎓 known
 - OOP basics
-  - Constructor: 👂 heard
-  - Operator `new`: 👂 heard
-  - Static method: 👂 heard
-  - Method: 👂 heard
-  - Async method: 👂 heard
-  - Getters, Setters: 👂 heard
+  - Constructor: 🎓 known
+  - Operator `new`: 🎓 known
+  - Static method: 🎓 known
+  - Method: 🎓 known
+  - Async method: 🎓 known
+  - Getters, Setters: 🎓 known
   - Public fields: 🎓 known
   - Private fields: 🎓 known
   - Field declarations: 🎓 known
-  - Inheritance: 👂 heard
-  - Parent class: 👂 heard
-  - Polymorphism
-  - Abstract class
-  - Interface: 👂 heard
+  - Inheritance: 🎓 known
+  - Parent class: 🎓 known
+  - Polymorphism: 🎓 known
+  - Abstract class: 👂 heard
+  - Interface: 🎓 known
   - Encapsulation: 🎓 known
-  - Hidden class
-  - Object form
-  - Instance
-  - Introspection
-  - Reflection
-  - The diamond problem
+  - Hidden class: 👂 heard
+  - Object form: 👂 heard
+  - Instance: 🎓 known
+  - Introspection: 👂 heard
+  - Reflection: 👂 heard
+  - The diamond problem: 👂 heard
 - GRASP
-  - Information expert
-  - Creator
-  - Controller
-  - Indirection
-  - Low coupling
-  - High cohesion
-  - Protected variations
-  - Pure fabrication
+  - Information expert: 👂 heard
+  - Creator: 👂 heard
+  - Controller: 👂 heard
+  - Indirection: 👂 heard
+  - Low coupling: 🎓 known
+  - High cohesion: 🎓 known
+  - Protected variations: 👂 heard
+  - Pure fabrication: 👂 heard
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP): 🎓 known
+  - Open–closed principle (OCP): 🎓 known
+  - Liskov substitution principle (LSP): 👂 heard
+  - Interface segregation principle (ISP): 👂 heard
+  - Dependency inversion principle (DIP): 👂 heard
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
+  - Singleton: 👂 heard
+  - Factory Method: 👂 heard
+  - Abstract Factory: 👂 heard
+  - Adapter: 👂 heard
+  - Observer: 👂 heard
+  - Strategy: 👂 heard
+  - Facade: 👂 heard
+  - Proxy: 👂 heard
+  - Chain of Responsibility: 👂 heard
+  - Command: 👂 heard
   - Iterator: 👂 heard
-  - State
-  - Bridge
-  - Builder
+  - State: 👂 heard
+  - Bridge: 👂 heard
+  - Builder: 👂 heard
   - Prototype: 👂 heard
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
-  - Reactor
-  - Active object
-  - Delegation
+  - Composite: 👂 heard
+  - Decorator: 👂 heard
+  - Flyweight: 👂 heard
+  - Mediator: 👂 heard
+  - Memento: 👂 heard
+  - Template Method: 👂 heard
+  - Visitor: 👂 heard
+  - Reactor: 👂 heard
+  - Active object: 👂 heard
+  - Delegation: 👂 heard

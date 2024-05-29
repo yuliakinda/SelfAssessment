@@ -2,120 +2,120 @@
 
 - Language
   - `Object`: 🖐️ used
-  - `Function`:
-  - `Boolean`:
-  - `Number`:
-  - `BigInt`: 🎓 known
-  - `String`:
-  - `Symbol`: 🎓 known
-  - `Infinity`:
-  - `NaN`:
-  - `undefined`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🖐️ used
+  - `String`: 🖐️ used
+  - `Symbol`: 🖐️ used
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
+  - `undefined`: 🎓 known
   - `null`: 🖐️ used
   - `this`: 🖐️ used
-  - `instanceof`:
-  - `...spread`:
-  - `...rest`:
+  - `instanceof`: 👂 heard
+  - `...spread`: 🎓 known
+  - `...rest`: 🎓 known
   - `typeof`: 🎓 known
   - Destructuring: 🖐️ used
-  - Generators:
-  - Iterators:
-  - Async generator:
-  - Async iterator:
-  - Chaining:
+  - Generators: 🎓 known
+  - Iterators: 🎓 known
+  - Async generator: 👂 heard
+  - Async iterator: 👂 heard
+  - Chaining: 🎓 known
   - Optional chaining: 🖐️ used
-  - IIFE:
-  - Async IIFE:
-  - `global`:
-  - `globalThis`:
-  - `window`:
-  - Getters and setters: 👂 heard
-  - `__proto__`: 👂 heard
-  - `prototype`: 👂 heard
+  - IIFE: 👂 heard
+  - Async IIFE: 👂 heard
+  - `global`: 🎓 known
+  - `globalThis`: 🎓 known
+  - `window`: 🎓 known
+  - Getters and setters: 🎓 known
+  - `__proto__`: 🎓 known
+  - `prototype`: 🎓 known
   - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
-  - Logical Assignment:
-  - Bitwise operators: 👂 heard
+  - Logical Assignment:: 🎓 known
+  - Bitwise operators: 🎓 known
   - Ternary operator: 🖐️ used
-  - `void`:
-  - `yield`:
+  - `void`: 🎓 known
+  - `yield`: 👂 heard
   - `await`: 🎓 known
   - Template literal: 🖐️ used
   - Strict mode: 🖐️ used
-  - Hoisting:
+  - Hoisting: 👂 heard
   - `delete`: 🎓 known
   - `in`: 🎓 known
-  - `super`:
-  - `eval`:
-  - `static`:
-  - `Number.parseInt`:
-  - `Number.parseFloat`:
-  - Property descriptors:
-  - Sealing properties:
-  - Freezing properties:
-  - Computed properties:
-  - Instance class fields:
-  - Static class fields:
-  - Private class fields:
-  - Private class methods:
-- Statements:
+  - `super`: 👂 heard
+  - `eval`: 👂 heard
+  - `static`: 🎓 known
+  - `Number.parseInt`: 🎓 known
+  - `Number.parseFloat`: 🎓 known
+  - Property descriptors: 👂 heard
+  - Sealing properties: 👂 heard
+  - Freezing properties: 👂 heard
+  - Computed properties: 👂 heard
+  - Instance class fields: 👂 heard
+  - Static class fields: 🎓 known
+  - Private class fields: 🎓 known
+  - Private class methods: 🎓 known
+- Statements
   - `if`: 🖐️ used
   - `while`: 🖐️ used
   - `do..while`: 🖐️ used
   - `for`: 🖐️ used
   - `for..in`: 🖐️ used
   - `for..of`: 🖐️ used
-  - `for await`:
+  - `for await`: 👂 heard
   - `throw`: 🖐️ used
   - `break`: 🖐️ used
   - `continue`: 🖐️ used
   - `import`: 🖐️ used
   - `export`: 🖐️ used
-  - `label`: 🖐️ used
+  - `label`: 👂 heard
   - `try..catch`: 🖐️ used
   - `switch`: 🖐️ used
   - `class`: 🖐️ used
-  - `extends`:
-  - `with`:
-  - `new`:
-- Functions:
+  - `extends`: 🎓 known
+  - `with`: 👂 heard
+  - `new`: 🖐️ used
+- Functions
   - Arrow function: 🖐️ used
   - Async function: 🎓 known
   - Function declaration: 🖐️ used
   - Function expression: 🖐️ used
-  - Default parameters:
-  - Functional object:
-  - `Function.prototype.call`:
-  - `Function.prototype.bind`:
-  - `Function.prototype.apply`:
+  - Default parameters: 🎓 known
+  - Functional object: 👂 heard
+  - `Function.prototype.call`: 👂 heard
+  - `Function.prototype.bind`: 👂 heard
+  - `Function.prototype.apply`: 👂 heard
   - `return`: 🖐️ used
-- Data structures:
+- Data structures
   - `Array`: 🖐️ used
-  - `Map`:
-  - `Set`:
-  - Weak collections:
-  - Typed arrays:
-  - Mixins:
-  - `Object.assign`:
-- Standard classes and namespaces:
-  - `Proxy`:
-  - `RegExp`: 👂 heard
+  - `Map`: 🎓 known
+  - `Set`: 🎓 known
+  - Weak collections: 👂 heard
+  - Typed arrays: 👂 heard
+  - Mixins: 👂 heard
+  - `Object.assign`: 🎓 known
+- Standard classes and namespaces
+  - `Proxy`: 👂 heard
+  - `RegExp`: 🎓 known
   - `Date`: 🖐️ used
-  - `Math`:
-  - `Reflect`:
-  - `Error`:
-  - `Atomics`:
-  - `JSON`:
-  - `WeakRef`:
-  - `FinalizationRegistry`:
-  - `Intl`:
-  - `Promise`:
-  - `console`:
-  - Timers: 👂 heard
-- Infrastructure:
+  - `Math`: 🖐️ used
+  - `Reflect`: 🎓 known
+  - `Error`: 🎓 known
+  - `Atomics`: 👂 heard
+  - `JSON`: 🎓 known
+  - `WeakRef`: 👂 heard
+  - `FinalizationRegistry`: 👂 heard
+  - `Intl`: 👂 heard
+  - `Promise`: 🎓 known
+  - `console`: 🖐️ used
+  - Timers: 🎓 known
+- Infrastructure
   - V8: 🎓 known
-  - Node.js: 👂 heard
-  - npm: 👂 heard
-  - prettier: 👂 heard
+  - Node.js: 🎓 known
+  - npm: 🎓 known
+  - prettier: 🖐️ used
   - MDN: 🖐️ used
-  - TC39:
+  - TC39: 👂 heard
